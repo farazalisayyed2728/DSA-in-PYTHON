@@ -1,2 +1,4 @@
-hello = 1
-print(hello)
+x = 5
+
+for i in range(0 , x):
+    print(i)
